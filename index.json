@@ -176,6 +176,7 @@
       "mouseFPV",
       "MrAlucardDante",
       "NemesisXB",
+      "Ryan Cummings",
       "Sjoer van der Ploeg",
       "sugarK",
       "SupaflyFPV",
@@ -1340,7 +1341,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/RyanCummings.txt",
-      "hash": "702a1e043399164c6bfe2c364d4134d552146d8a6a30896067d4ff057ef094b7",
+      "hash": "d6a21e439dd80e8f31a5649c2bb4040df880bace7d9fa29aaf27352802a6adf2",
       "title": "Ryan Cummings racing and freestyle rates",
       "firmware_version": [
         "4.3"
@@ -1355,7 +1356,7 @@
         "MultiGP",
         "freestyle"
       ],
-      "author": "Alex Vanover",
+      "author": "Ryan Cummings",
       "priority": 10000
     },
     {

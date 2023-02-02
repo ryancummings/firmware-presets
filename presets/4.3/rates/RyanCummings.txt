@@ -3,7 +3,7 @@
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: racing, race, vanover, rates, MultiGP, freestyle
-#$ AUTHOR: Alex Vanover
+#$ AUTHOR: Ryan Cummings
 #$ DESCRIPTION: Racing and freestyle rates by Vanover.
 #$ DESCRIPTION: 488 deg/sec for all axes sounds slow, but it's not if you check Vanover's freestyle and race videos.
 #$ DESCRIPTION: Alex - 2017 MultiGP Champion and DRL pilot 2019, 2020, 2021. 2018 FAI Drone Sports and DR1 Champion. Professional acro drone operator for cinematrography.
