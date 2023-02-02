@@ -1,4 +1,4 @@
-#$ TITLE: Vanover racing/freestyle rates
+#$ TITLE: Ryan Cummings racing and freestyle rates
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
